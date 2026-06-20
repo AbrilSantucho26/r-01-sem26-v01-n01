@@ -29,6 +29,20 @@
       <pub-id pub-id-type="doi">10.5210/fm.v7i4.942</pub-id>
     </element-citation>
   </ref>
+  <ref id="bib-2554-VANDIJK2020">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>van Dijk</surname>
+          <given-names>J. A. G. M.</given-names>
+        </name>
+      </person-group>
+      <source>The Digital Divide</source>
+      <publisher-name>Polity Press</publisher-name>
+      <year>2020</year>
+    </element-citation>
+  </ref>
+  <!-- ADVERTENCIA: citekey '0-Warschauer2004' no encontrado en el .bib -->
   <ref id="bib-2555-CEPAL2021">
     <element-citation publication-type="book">
       <person-group person-group-type="author">
