@@ -256,20 +256,6 @@
                <pub-id pub-id-type="doi">10.5210/fm.v7i4.942</pub-id>
             </element-citation>
          </ref>
-         <ref id="bib-2554-VANDIJK2020">
-            <element-citation publication-type="book">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>van Dijk</surname>
-                     <given-names>J. A. G. M.</given-names>
-                  </name>
-               </person-group>
-               <source>The Digital Divide</source>
-               <publisher-name>Polity Press</publisher-name>
-               <year>2020</year>
-            </element-citation>
-         </ref>
-         <!-- ADVERTENCIA: citekey '0-Warschauer2004' no encontrado en el .bib -->
          <ref id="bib-2555-CEPAL2021">
             <element-citation publication-type="book">
                <person-group person-group-type="author">
@@ -279,27 +265,6 @@
                </person-group>
                <source>Tecnologías digitales para un nuevo futuro</source>
                <year>2021</year>
-            </element-citation>
-         </ref>
-         <ref id="bib-2556-VANDEURSEN2019">
-            <element-citation publication-type="journal">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>van Deursen</surname>
-                     <given-names>A. J. A. M.</given-names>
-                  </name>
-                  <name>
-                     <surname>van Dijk</surname>
-                     <given-names>J. A. G. M.</given-names>
-                  </name>
-               </person-group>
-               <article-title>The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access</article-title>
-               <source>New Media and Society</source>
-               <year>2019</year>
-               <volume>21</volume>
-               <issue>2</issue>
-               <fpage>354</fpage>
-               <lpage>375</lpage>
             </element-citation>
          </ref>
       </ref-list>

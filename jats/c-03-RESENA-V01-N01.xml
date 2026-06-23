@@ -37,7 +37,8 @@
                </name>
                <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0005-1490-6190</contrib-id>
                <aff>
-                  <institution>Universidad de Buenos Aires</institution>,
+                  <institution content-type="dept">Seminario: Introducción a la producción de revistas científicas</institution>,
+          <institution>Universidad de Buenos Aires</institution>,
           <city>Ciudad Autonoma de Buenos Aires</city>,
           <country>Argentina</country>
                </aff>
