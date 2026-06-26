@@ -23,9 +23,11 @@
     ],
     "journal": {
       "title": "Nexus Scientia",
-      "publisher": "",
+      "publisher": "PLEYADIANOS",
       "volume": "01",
-      "number": "01"
+      "number": "01",
+      "start_page": "1",
+      "end_page": "6"
     },
     "link": [
       {

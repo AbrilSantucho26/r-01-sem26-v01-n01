@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 18:26:41
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
+Autor(es): Santucho , Abril
+Archivo:   02-ARTICULO-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: HOLAMUNDO
+ISSN:            2953-6413
+URL canónica:    https://revistas.unc.edu.ar/index.php/revistaadbia/article/view/49915/52173
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 2953-6413-HOLAMUNDO-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  2953-6413-HOLAMUNDO-01-01-00001.xml — XML SciELO PS 1.9
+  2953-6413-HOLAMUNDO-01-01-00001.pdf — PDF final
+  2953-6413-HOLAMUNDO-01-01-00001-gf01.png — Imagen 1
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   presentes
+  Style errors: presentes
+
+OBSERVACIONES
+------------------------------------------------------------
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org

@@ -7,10 +7,10 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-02-ARTICULO-V01-N01-20260619203145</doi_batch_id>
-      <timestamp>20260619203145</timestamp>
+      <doi_batch_id>gbpublisher-02-ARTICULO-V01-N01-20260626181221</doi_batch_id>
+      <timestamp>20260626181221</timestamp>
       <depositor>
-         <depositor_name/>
+         <depositor_name>PLEYADIANOS</depositor_name>
          <email_address>annsantuchoauthor@gmail.com</email_address>
       </depositor>
       <registrant>Universidad de Buenos Aires</registrant>
@@ -57,6 +57,10 @@
                <day>19</day>
                <year>2026</year>
             </publication_date>
+            <pages>
+               <first_page>1</first_page>
+               <last_page>6</last_page>
+            </pages>
             <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
                <free_to_read/>
                <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
@@ -68,59 +72,42 @@
             <citation_list>
                <citation key="bib-0-WARSCHAUER2004">
                   <unstructured_citation>Warschauer, M. (
-      
       2004
-     
      ). Technology and Social Inclusion: Rethinking the Digital Divide. The MIT Press.</unstructured_citation>
                </citation>
                <citation key="bib-2553-HARGITTAI2002">
                   <doi>10.5210/fm.v7i4.942</doi>
                   <unstructured_citation>Hargittai, E. (
-      
       2002
-     
      ). Second-Level Digital Divide: Differences in People's Online Skills. First Monday, 
-      
       7
-     
      (
-      
       4
-     
      ). https://doi.org/
-      
       10.5210/fm.v7i4.942
-     
      .</unstructured_citation>
+               </citation>
+               <citation key="bib-2554-VANDIJK2020">
+                  <unstructured_citation>van Dijk, J. A. G. M. (
+      2020
+     ). The Digital Divide. Polity Press.</unstructured_citation>
                </citation>
                <citation key="bib-2555-CEPAL2021">
                   <unstructured_citation>CEPAL (
-      
       2021
-     
      ). Tecnologías digitales para un nuevo futuro. .</unstructured_citation>
                </citation>
                <citation key="bib-2556-VANDEURSEN2019">
                   <unstructured_citation>van Deursen, A. J. A. M. y van Dijk, J. A. G. M. (
-      
       2019
-     
      ). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. New Media and Society, 
-      
       21
-     
      (
-      
       2
-     
      ), 
-      
       354
-     
      -
-      
       375
-     
      .</unstructured_citation>
                </citation>
             </citation_list>
