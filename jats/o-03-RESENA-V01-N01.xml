@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260626191725</doi_batch_id>
+      <timestamp>20260626191725</timestamp>
+      <depositor>
+         <depositor_name>PLEYADIANOS</depositor_name>
+         <email_address>annsantuchoauthor@gmail.com</email_address>
+      </depositor>
+      <registrant>Universidad de Buenos Aires</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Nexus Scientia</full_title>
+            <issn media_type="electronic">2953-6413</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>19</day>
+               <year>2027</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Reseña bibliográfica</title>
+               <original_language_title language="en">Bibliographic review</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Abril</given_name>
+                  <surname>Santucho</surname>
+                  <ORCID authenticated="true">https://orcid.org/0009-0005-1490-6190</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">Jessé Souza es uno de los sociólogos brasileños más provocadores de su generación. Formado en Derecho y Sociología por la Universidad de Brasilia, doctorado en Heidelberg y con posdoctorados en la New School for Social Research de Nueva York, ha dedicado buena parte de su trayectoria a desmontar lo que considera los mitos fundacionales de la interpretación de Brasil como nación. *A elite do atraso*, publicado originalmente en 2017 en el contexto de la crisis político-institucional que desembocó en el *impeachment* de Dilma Rousseff, es quizás su obra de mayor repercusión pública: un libro que trascendió el circuito académico para instalarse en el debate político brasileño e incluso inspirar el desfile de la escuela de samba Paraíso do Tuiuti en el carnaval de Río de Janeiro de 2018. El argumento central del libro puede resumirse en una operación de desplazamiento: donde la tradición dominante del pensamiento social brasileño ubicó al patrimonialismo heredado de Portugal como la clave explicativa de los males nacionales ---la corrupción, el atraso institucional, la ineficiencia del Estado---, Souza propone que la verdadera matriz de la desigualdad brasileña es la esclavitud y su legado persistente. No se trata, advierte el autor, de una tesis meramente historiográfica: lo que está en juego es la estructura de legitimación que permite a las élites brasileñas contemporáneas reproducir privilegios mientras trasladan la responsabilidad del "atraso" al Estado y, por extensión, a las clases populares que dependen de él. Para sostener esta tesis, Souza emprende una revisión crítica de tres figuras canónicas del pensamiento social brasileño: Gilberto Freyre, Sérgio Buarque de Holanda y Raimundo Faoro. El argumento no es que estos autores carecieran de mérito intelectual, sino que sus interpretaciones</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>19</day>
+               <year>2027</year>
+            </publication_date>
+            <pages>
+               <first_page>1</first_page>
+               <last_page>3</last_page>
+            </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.59524/2344-9225.v29.n1.49915</doi>
+               <resource content_version="vor" mime_type="text/html">https://revistas.unc.edu.ar/index.php/revistaadbia/article/view/49915/52173</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>
